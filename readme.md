@@ -1,5 +1,5 @@
-# wz-uniform-crawler
-This is a simple crawler script for downloading images from [Uniform Map / ®Ó™A¶aπœ](http://uniform.wingzero.tw/)
+Ôªø# wz-uniform-crawler
+This is a simple crawler script for downloading images from [Uniform Map / Âà∂ÊúçÂú∞Âúñ](http://uniform.wingzero.tw/)
 
 ## Installation
 Install from [PyPI](https://pypi.org/):

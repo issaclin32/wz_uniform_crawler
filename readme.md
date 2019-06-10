@@ -19,8 +19,11 @@ pip install git+https://github.com/issaclin32/wz-uniform-crawler/
 
 ## Usage
 ```python
+
 import wz_uniform_crawler
+
 wz_uniform_crawler.fetch_pics('https://uniform.wingzero.tw/school/intro/jr/198')
+
 ```
 
 ## Disclaimer

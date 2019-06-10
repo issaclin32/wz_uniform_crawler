@@ -13,7 +13,7 @@ Install from [GitHub](https://github.com/):
 
 
 ```
-pip install git+https://github.com/issaclin32/wz-uniform-crawler/
+pip install git+https://github.com/issaclin32/wz_uniform_crawler/
 ```
 
 

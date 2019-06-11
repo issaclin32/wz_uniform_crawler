@@ -7,7 +7,7 @@ install_requires=['beautifulsoup4']
 
 setuptools.setup(
     name='wz_uniform_crawler',
-    version='1.0.0',
+    version='1.0.1',
     author='Issac Lin',
     author_email='issaclin32@gmail.com',
     description='A simple crawler script for Uniform Map / 制服地圖 (http://uniform.wingzero.tw/)',
